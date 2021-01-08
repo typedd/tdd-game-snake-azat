@@ -1,0 +1,27 @@
+
+html {
+    background-color:blanchedalmond;
+}
+.container {
+    background-color: black;
+    margin: 20px auto;
+    width: 600px;
+    height: 600px;
+    display:grid;
+    grid-template-columns: 300px 300px;
+}
+.box {
+    color: blanchedalmond;
+    justify-content: center;
+    align-items:center;
+    display:flex;
+    border-color: cornflowerblue;
+    border-radius: 10px; 
+
+    
+  }
+.headlogo {
+    color: blue;
+    text-align: center;
+    font-family: ;
+}
